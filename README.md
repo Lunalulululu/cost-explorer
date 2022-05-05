@@ -1,1 +1,1 @@
-# costExplorer
+# cost-explorer
